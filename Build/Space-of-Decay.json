@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Space-of-Decay.data.unityweb",
+"asmCodeUrl": "Space-of-Decay.asm.code.unityweb",
+"asmMemoryUrl": "Space-of-Decay.asm.memory.unityweb",
+"asmFrameworkUrl": "Space-of-Decay.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
